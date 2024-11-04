@@ -1,0 +1,58 @@
+.login-wrapper{
+    display: flex;
+    margin-top: 100px;
+    flex-direction: column;
+}
+
+.form-wrapper{
+    width: 50%;
+    margin: auto;
+}
+
+.ml-10{
+    margin-left: 10px;
+}
+.mr-10{
+    margin-right: 10px;
+}
+
+
+.home-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
+.card-wrapper{
+    margin: 10px auto 10px auto;
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+.profile-wrapper{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 10px;
+}
+
+.create-wrapper{
+    display: flex;
+    flex-direction: row;
+}
+
+.section-form{
+    width: 60%;
+    padding: 20px;
+}
+
+.section-preview{
+    margin: 50px auto 30px auto;
+}
+.signup-wrapper{
+   margin-left: 30%;
+   width: 600px !important;
+   
+
+}
